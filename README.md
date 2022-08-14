@@ -1,3 +1,4 @@
+#  代码原自(https://github.com/chen310/NeteaseCloudMusicTasks)大佬，大佬跑路了，为了能用，从重新下载了他的源码重新修改上传
 #  青龙一键拉库
 #  
 #  ql repo https://github.com/CoverUp137/wangyiyun.git "index.py" "" "py" && task /ql/scripts/CoverUp137_wangyiyun/ql_update.py
