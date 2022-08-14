@@ -2,6 +2,8 @@
 #  
 #  ql repo https://github.com/CoverUp137/wangyiyun.git "index.py" "" "py" && task /ql/scripts/CoverUp137_wangyiyun/ql_update.py
 
+#  运行报错查看底下安装依赖
+
 
 
  网易云音乐自动任务
