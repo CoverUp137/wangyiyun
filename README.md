@@ -53,7 +53,7 @@
 
 ### fork 本项目
 
-在 GitHub 上 fork [本项目](https://github.com/chen310/NeteaseCloudMusicTasks)
+在 GitHub 上 fork [本项目](https://github.com/CoverUp137/wangyiyun.git)
 
 ![Fork](https://cdn.jsdelivr.net/gh/chen310/NeteaseCloudMusicTasks/public/img/fork.png)
 
