@@ -1,4 +1,5 @@
-#  自用
+#  青龙一键拉库
+#  
 #  ql repo https://github.com/CoverUp137/wangyiyun.git "index.py" "" "py" && task /ql/scripts/CoverUp137_wangyiyun/ql_update.py
 
 
